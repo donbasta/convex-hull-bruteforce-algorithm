@@ -15,3 +15,5 @@ Below is the example command with file name main.cpp, object file name main, and
 
 `g++ -o main main.cpp -I/usr/include/python2.7 -lpython2.7`
 
+Tested using python2 only, not tested with python3
+
