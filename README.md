@@ -3,7 +3,7 @@
 This repo contains an algorithm written in C++ to create convex hull from a set of points based on brute force.
 The brute force approach is to try all possible pairs of points and check whether they make up the boundary of the convex hull by counting the number of points in its left and right side.
 
-The program show the result of the convex hull as well, using an extension of matplotlib library in C++.
+The program shows the result of the convex hull as well, using an extension of matplotlib library in C++.
 
 The project is done to fulfill task given in course IF2211 (Strategi Algoritma/Algorithm Strategy) at Institut Teknologi Bandung.
 
